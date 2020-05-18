@@ -1,13 +1,7 @@
 ---
 layout: post
-title:  1. 两数之和
-date:   2020-5-18 9:50:00 +0000
+title:  26. 删除排序数组中的重复项
+date:   2020-5-18 18:50:00 +0000
 image: /assets/images/twoscreen.jpg
-<<<<<<< HEAD:_posts/2020-5-18-001.md
-<!-- more -->
 ---
-
-
-
-
-![题目]({{ "/images/001.png" | relative_url }})
+![题目](assets/images/002.png)
