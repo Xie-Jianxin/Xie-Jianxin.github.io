@@ -5,4 +5,4 @@ date:   2020-5-18 9:50:00 +0000
 image: /assets/images/twoscreen.jpg
 <!-- more -->
 ---
-![题目](assets/images/001.png)
+![题目]({{ "assets/images/001.png" | relative_url }})
