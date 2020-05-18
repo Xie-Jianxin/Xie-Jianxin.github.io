@@ -3,7 +3,7 @@ name: 谢健昕
 email: 381364123@qq.com
 description: 请多指教!
 
-baseurl:https://xie-jianxin.github.io/#blog
+baseurl: "/blog"
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
@@ -149,7 +149,7 @@ project_button: Github
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
 
-baseurl:Xie-Jianxin.github.io # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+baseurl:https://xie-jianxin.github.io/#blog # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
