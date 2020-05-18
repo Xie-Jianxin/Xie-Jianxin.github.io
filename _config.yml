@@ -7,7 +7,6 @@ baseurl: "https://xie-jianxin.github.io"
 url: "https://xie-jianxin.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
-excerpt_separator:  '<!-- more -->'
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
